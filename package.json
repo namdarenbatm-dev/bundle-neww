@@ -1,0 +1,10 @@
+{
+  "name": "bundling-v6-pwa",
+  "version": "6.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FINAL Bundle — Bundling v6 static PWA",
+  "scripts": {
+    "test": "node --test tests/engine.test.js"
+  }
+}
